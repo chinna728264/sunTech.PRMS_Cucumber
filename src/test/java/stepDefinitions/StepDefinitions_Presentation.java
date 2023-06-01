@@ -441,7 +441,7 @@ public class StepDefinitions_Presentation extends BaseTest{
 	@Then("Select the check box")
 	public void select_the_check_box() {
 		
-		//projectDeliverables.selectCheckbox();
+		projectDeliverables.selectCheckbox();
 		
 	}
 //	@Then("Click on save button")
