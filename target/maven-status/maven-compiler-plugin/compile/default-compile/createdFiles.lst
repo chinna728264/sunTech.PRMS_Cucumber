@@ -1,0 +1,8 @@
+pageObjects\SOW_Manage_SOW.class
+pageObjects\LoginPage.class
+pageObjects\Test.class
+pageObjects\Projects_ManageProjects.class
+pageObjects\Projects_ProjectDeliverables.class
+utilities\AbstractComponents.class
+pageObjects\View_Client.class
+pageObjects\Resource.class

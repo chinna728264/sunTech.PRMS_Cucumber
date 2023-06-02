@@ -1,3 +1,9 @@
+cucumberOptions\Hooks.class
+stepDefinitions\StepDefinitions_ProjectDeliverables.class
+stepDefinitions\StepDefinitions_Resource.class
 cucumberOptions\JunitTestRunnerTest.class
 stepDefinitions\BaseTest.class
 stepDefinitions\StepDefinition.class
+stepDefinitions\StepDefinitions_Presentation.class
+stepDefinitions\StepDefinitions_ProjectModule.class
+stepDefinitions\StepDefinitions_Manage_SOW.class
